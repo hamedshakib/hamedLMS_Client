@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/mainwindow">
+        <file>icon_ha/24-512.png</file>
+        <file>icon_ha/25.jpg</file>
+        <file>icon_ha/28-512.png</file>
+        <file>icon_ha/402-512.png</file>
+        <file>icon_ha/55444-200.png</file>
+        <file>icon_ha/66759-200.png</file>
+        <file>icon_ha/159110135480191692.png</file>
+        <file>icon_ha/cell-2-0-480.png</file>
+        <file>icon_ha/Checkmark-512.png</file>
+        <file>icon_ha/close-512.png</file>
+        <file>icon_ha/download.png</file>
+        <file>icon_ha/Editing-Line-icon.png</file>
+        <file>icon_ha/Editing-Text-icon.png</file>
+        <file>icon_ha/en.PNG</file>
+        <file>icon_ha/fa.PNG</file>
+        <file>icon_ha/Gear-512.png</file>
+        <file>icon_ha/hnet.com-image.ico</file>
+        <file>icon_ha/icon_Qt_78x78px.png</file>
+        <file>icon_ha/icons8-about-96.png</file>
+        <file>icon_ha/icons8-cursor-100.png</file>
+        <file>icon_ha/icons8-cursor-100_new.jpg</file>
+        <file>icon_ha/icons8-happy-100.png</file>
+        <file>icon_ha/icons8-sad-100.png</file>
+        <file>icon_ha/images1.jpg</file>
+        <file>icon_ha/no-headphones.png</file>
+        <file>icon_ha/pngkey.com-thumb-up-icon-png-6501721.png</file>
+        <file>icon_ha/red-drawn-circle-png-4.png</file>
+        <file>icon_ha/shape_square.png</file>
+        <file>icon_ha/text.png</file>
+        <file>icon_ha/Webp.net-resizeimage.png</file>
+    </qresource>
+    <qresource prefix="/new/file">
+        <file>file_ha/pdftopng.exe</file>
+        <file>lms1_fa.qm</file>
+        <file>lms1_fa.ts</file>
+    </qresource>
+    <qresource prefix="/Color">
+        <file>icon_ha/black.PNG</file>
+        <file>icon_ha/blue.PNG</file>
+        <file>icon_ha/gray.PNG</file>
+        <file>icon_ha/green.PNG</file>
+        <file>icon_ha/perpele.PNG</file>
+        <file>icon_ha/red.PNG</file>
+        <file>icon_ha/white.PNG</file>
+        <file>icon_ha/yellow.PNG</file>
+    </qresource>
+</RCC>
